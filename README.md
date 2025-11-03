@@ -36,3 +36,9 @@ This project served as a hands-on way to practice Python, pandas, machine learni
 
 ## Results
 
+![Feature Importance](./figures/feature_importance.png)
+
+
+![Simulated Bankroll](./figures/bankroll_constant.png)
+
+![Simulated Bankroll](./figures/bankroll_kellystaking.png)
